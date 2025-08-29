@@ -6,7 +6,7 @@ A modern, responsive clone of the official Apple iPhone website built with React
 ## Links
 
 - **GitHub Repository:** [https://github.com/Krut369/iphone_website.git](https://github.com/Krut369/iphone_website.git)
-- **Live Site:** [Add your live URL here]
+- **Live Site:** [https://iphone-website-git-main-krutarth-solankis-projects.vercel.app/]
 - **Author:** [Krut369](https://github.com/Krut369)
 
 ## Features
@@ -77,3 +77,4 @@ npm run preview
 
 ## License
 This project is for educational and demonstration purposes only. Not affiliated with Apple Inc.
+
